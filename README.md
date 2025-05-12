@@ -22,8 +22,15 @@ O objetivo final é garantir que o Zabbix esteja instalado, funcionando corretam
 
    No terminal, onde o arquivo `docker-compose.yml` está localizado, execute os comandos abaixo:
 
-   ```bash
+   ```
    docker system prune
    docker system prune -a --volumes
 
+   ```
 
+## Rodar o Projeto
+Após garantir que o ambiente esteja limpo, execute o seguinte comando para rodar o projeto:
+
+```
+docker-compose up --build
+```
