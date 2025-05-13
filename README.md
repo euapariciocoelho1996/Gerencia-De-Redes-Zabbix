@@ -109,5 +109,9 @@ Após ligar a máquina e iniciar alguns processos:
 ![image](https://github.com/user-attachments/assets/ec13f0c2-383d-4965-a0da-2154e7bcea8a)
 
 
+## Contribuidores
+Luis Eduardo
 
+Francisco Aparício
 
+Victor Macêdo
