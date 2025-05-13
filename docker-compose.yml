@@ -13,7 +13,7 @@ services:
       - zbx_net
 
   zabbix-server:
-    image: zabbix/zabbix-server-pgsql:alpine-6.4-latest
+    image: zabbix/zabbix-server-pgsql:alpine-7.2-latest
     depends_on:
       - postgres-server
     environment:
@@ -26,7 +26,7 @@ services:
       - zbx_net
 
   zabbix-web:
-    image: zabbix/zabbix-web-nginx-pgsql:alpine-6.4-latest
+    image: zabbix/zabbix-web-nginx-pgsql:alpine-7.2-latest
     depends_on:
       - zabbix-server
       - postgres-server
