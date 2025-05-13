@@ -1,5 +1,3 @@
----
-
 # 📋 Descrição da Tarefa
 
 Este projeto tem como objetivo a instalação e configuração da ferramenta de monitoramento **Zabbix**. A atividade está dividida em duas etapas principais:
@@ -13,8 +11,6 @@ Nesta fase, será demonstrado que o Zabbix foi corretamente instalado e está op
 Após a instalação, serão configurados dois dispositivos distintos para serem monitorados pelo Zabbix. Essa etapa comprova a funcionalidade prática da ferramenta.
 
 O objetivo final é garantir que o Zabbix esteja instalado, funcionando corretamente e monitorando os dois dispositivos definidos no escopo da tarefa.
-
----
 
 ## 🚀 Como Fazer Funcionar
 
@@ -53,8 +49,6 @@ Login padrão:
 Usuário: **Admin**
 Senha: **zabbix**
 
----
-
 # Configurações Para ETAPA 2
 
 ## Dependências
@@ -78,7 +72,7 @@ No instalador, clique em *Next* até chegar à seguinte tela:
 
 Preencha com o nome do host que será monitorado e o IP da máquina onde está o servidor (Zabbix Server).
 
----
+
 
 ### Na interface do Zabbix ([http://localhost:8080](http://localhost:8080)):
 
@@ -100,7 +94,7 @@ Preencha com o nome do host que será monitorado e o IP da máquina onde está o
 5. Adicione a interface da máquina que está sendo monitorada, com o IP correspondente:
    ![image](https://github.com/user-attachments/assets/0e1d592f-7447-4cb8-aa82-43bdf6cfd526)
 
----
+
 
 # Verificando o Monitoramento
 
@@ -114,6 +108,6 @@ Na imagem abaixo, a máquina está desligada:
 Após ligar a máquina e iniciar alguns processos:
 ![image](https://github.com/user-attachments/assets/ec13f0c2-383d-4965-a0da-2154e7bcea8a)
 
----
+
 
 
