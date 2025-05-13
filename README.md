@@ -11,6 +11,8 @@ O objetivo final é garantir que o Zabbix esteja instalado, funcionando corretam
 
 ## 🚀 Como Fazer Funcionar
 
+# ETAPA 1
+
 ### 1. **Instalar o Docker Desktop**
    - Baixe e instale o [Docker Desktop](https://www.docker.com/products/docker-desktop) em sua máquina.
 
@@ -27,7 +29,6 @@ O objetivo final é garantir que o Zabbix esteja instalado, funcionando corretam
    docker system prune -a --volumes
 
    ```
-
 ## Rodar o Projeto
 Após garantir que o ambiente esteja limpo, execute o seguinte comando para rodar o projeto:
 
@@ -38,3 +39,16 @@ Acessar em: http://localhost:8080
 Login padrão:
    Usuário: Admin
    Senha: zabbix
+   
+# Configurações Para ETAPA 2
+
+## Dependências
+O zabbix no server está na versão 7.2
+O Zabbix Agent na máquina monitorada está em 6.0
+
+![image](https://github.com/user-attachments/assets/34d936e0-b580-4bda-9807-30422998cc9b)
+
+
+
+
+
