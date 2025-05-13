@@ -34,3 +34,4 @@ Após garantir que o ambiente esteja limpo, execute o seguinte comando para roda
 ```
 docker-compose up --build
 ```
+Acessar em: http://localhost:8080
