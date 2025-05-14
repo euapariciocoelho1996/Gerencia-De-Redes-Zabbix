@@ -108,6 +108,10 @@ Na imagem abaixo, a máquina está desligada:
 Após ligar a máquina e iniciar alguns processos:
 ![image](https://github.com/user-attachments/assets/ec13f0c2-383d-4965-a0da-2154e7bcea8a)
 
+# Verificando em uma segunda máquina
+![image](https://github.com/user-attachments/assets/7bcaa29c-e3b0-48e2-92f3-729dd796bd24)
+![image](https://github.com/user-attachments/assets/ce1ec9bd-6c30-4b17-a786-3bd606deb5bc)
+
 
 ## Contribuidores
 Luis Eduardo
