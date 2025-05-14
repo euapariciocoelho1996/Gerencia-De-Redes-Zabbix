@@ -112,6 +112,13 @@ Após ligar a máquina e iniciar alguns processos:
 ![image](https://github.com/user-attachments/assets/7bcaa29c-e3b0-48e2-92f3-729dd796bd24)
 ![image](https://github.com/user-attachments/assets/ce1ec9bd-6c30-4b17-a786-3bd606deb5bc)
 
+# Aplicando Filtro do que será monitorado
+![image](https://github.com/user-attachments/assets/8281679f-882a-4033-a5b8-08714889427f)
+
+![image](https://github.com/user-attachments/assets/e6df1c12-1f72-4990-af80-799d21d732c5)
+
+![image](https://github.com/user-attachments/assets/e70d0d55-3c4d-41d4-b6b1-ddce6556d90d)
+
 
 ## Contribuidores
 Luis Eduardo
